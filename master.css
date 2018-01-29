@@ -11,9 +11,6 @@ header, nav, footer {
   text-align:center;
   padding:7px;
   margin:10px;
-  /*
-  height:65px;
-  border:8px;*/
 }
 section {
   background: #ebebeb;
@@ -49,16 +46,11 @@ article {
 .content {
   width:438px;
 }
+/*I dont think this p.clear is doing anything*/
 p.clear {
   clear:left;
-
 }
 h2 {
-  padding:7px;
-  margin:7px;
-}
-/*
-p {
   padding:7px;
   margin:7px;
 }
